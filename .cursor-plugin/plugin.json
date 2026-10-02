@@ -19,5 +19,7 @@
   "logo": "assets/logo.png",
   "skills": [
     "skills/mcp-diet"
-  ]
+  ],
+  "repository": "https://github.com/Jommmain/mcp-diet",
+  "homepage": "https://github.com/Jommmain/mcp-diet"
 }
