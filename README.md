@@ -43,6 +43,19 @@ docs/popup-ux.md
 
 See [CHANGELOG.md](CHANGELOG.md) and [docs/agents-snippet.md](docs/agents-snippet.md) for adopters.
 
+
+## Credits / provenance
+
+This repository is a **Cursor-oriented rework** of the MCP “diet / profile” idea — not a fork of any one codebase.
+
+**Prior art (thank you):**
+- [Rumburak916/mcp-diet](https://github.com/Rumburak916/mcp-diet) — MCP profile / analyze tooling that inspired the profile UX for Cursor.
+- [haraldalder-vibemogger/mcp-diet](https://github.com/haraldalder-vibemogger) / PyPI `mcp-diet` lineage — MCP→code “diet” approaches in the Claude/code-SDK world (different runtime; we adapt the *goal*, not the SDK).
+
+**This project** packages an Agent Skill + Cursor plugin manifests (ON/OFF profiles, auto-pick, audit guidance) maintained for Cursor Agent / marketplace use. Branding and skill text here are original to this repo.
+
+If you are the author of a related project and want a clearer credit line or link fix, open an issue.
+
 ## License
 
 MIT

@@ -2,7 +2,7 @@
   "name": "mcp-diet",
   "displayName": "MCP Diet",
   "description": "MCP profile switcher for Cursor: cut schema tax with code/docs/design/sheets/slides/research/chat profiles, auto-pick from the task, ON/OFF checklists. Recommends toggles; does not silently install or uninstall connectors.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": {
     "name": "Jommmain"
   },

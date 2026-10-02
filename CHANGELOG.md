@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3
+- README + NOTICE: credit prior MCP Diet art; clarify this is a Cursor-oriented rework
+
 ## 1.0.2 — polish
 - Added adopter `AGENTS.md` snippet (`docs/agents-snippet.md`)
 - Stronger skill description for /skill discovery

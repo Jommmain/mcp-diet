@@ -1,0 +1,12 @@
+MCP Diet (Cursor skill / plugin)
+Copyright (c) 2026 Jommmain
+
+This work reimplements profile-based MCP token-diet guidance for Cursor.
+It was inspired by prior MCP diet tooling, including:
+
+  https://github.com/Rumburak916/mcp-diet
+
+and related “mcp-diet” / MCP schema-tax reduction ideas in the broader ecosystem
+(e.g. haraldalder mcp-diet / mcp-to-code approaches). Those projects remain
+separately licensed by their authors; this repository does not copy their
+source. Skill text, manifests, and assets here are original unless noted.
