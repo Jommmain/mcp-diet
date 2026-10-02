@@ -50,7 +50,8 @@ This repository is a **Cursor-oriented rework** of the MCP “diet / profile” 
 
 **Prior art (thank you):**
 - [Rumburak916/mcp-diet](https://github.com/Rumburak916/mcp-diet) — MCP profile / analyze tooling that inspired the profile UX for Cursor.
-- [haraldalder-vibemogger/mcp-diet](https://github.com/haraldalder-vibemogger) / PyPI `mcp-diet` lineage — MCP→code “diet” approaches in the Claude/code-SDK world (different runtime; we adapt the *goal*, not the SDK).
+- [haraldalder-vibemogger/mcp-diet](https://github.com/haraldalder-vibemogger/mcp-diet) — MCP→code SDK skills (Claude-oriented).
+- [albererinofigo-droid/mcp-diet](https://github.com/albererinofigo-droid/mcp-diet) — stdio schema proxy (related “diet” idea). / PyPI `mcp-diet` lineage — MCP→code “diet” approaches in the Claude/code-SDK world (different runtime; we adapt the *goal*, not the SDK).
 
 **This project** packages an Agent Skill + Cursor plugin manifests (ON/OFF profiles, auto-pick, audit guidance) maintained for Cursor Agent / marketplace use. Branding and skill text here are original to this repo.
 
