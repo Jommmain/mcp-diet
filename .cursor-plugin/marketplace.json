@@ -1,0 +1,21 @@
+{
+  "name": "mcp-diet",
+  "owner": {
+    "name": "Jommmain"
+  },
+  "plugins": [
+    {
+      "name": "mcp-diet",
+      "source": ".",
+      "description": "MCP profile switcher for Cursor: cut schema tax with code/docs/design/sheets/slides/research/chat profiles, auto-pick from the task, ON/OFF checklists. Recommends toggles; does not silently install or uninstall connectors.",
+      "version": "1.0.2",
+      "logo": "assets/logo.png",
+      "keywords": [
+        "mcp",
+        "tokens",
+        "diet",
+        "profiles"
+      ]
+    }
+  ]
+}
